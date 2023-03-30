@@ -7,6 +7,8 @@
 </p>
 
 
+## OSINT FrameWork 
+1. [Framework](https://osintframework.com/)
 
 ## Suggested Books
 1. [Open Source Intelligence Techniques](https://books.google.com/books/about/Open_Source_Intelligence_Techniques.html?id=EXNlswEACAAJ&source=kp_cover)
